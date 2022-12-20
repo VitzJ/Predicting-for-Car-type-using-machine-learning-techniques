@@ -29,8 +29,8 @@ y - car_type: A normal (0) car or a classic (1) car
 
 The objective for the classification was to design an accurate model that could be used to predict for the dummy variable car_type.
 
-I used python, pandas, numpy, matplotlib, seaborn, scikit-learn, and statsmodel to perform dataframe cleaning, data visualization,
-data analysis, and machine learning model building.
+I used python, pandas, numpy, matplotlib, seaborn, scikit-learn, and statsmodel to perform dataframe cleaning, data visualization, data analysis,
+and machine learning model building.
 
 The techniques that I utilize at first are correlation heatmapping to highlight potential important relationships.
 
